@@ -1,8 +1,8 @@
 {
   "name": "react-native-huy-custom-toast",
   "title": "React Native Huy Custom Toast",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "0.0.1",
+  "description": "Sample Toast with custom native code",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-huy-custom-toast.git",
-    "baseUrl": "https://github.com/github_account/react-native-huy-custom-toast"
+    "url": "git+https://github.com/MichaelHuy/react-native-custom-toast.git",
+    "baseUrl": "https://github.com/MichaelHuy/react-native-custom-toast"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Huy Le",
+    "email": "lehuydit@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
